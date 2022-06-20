@@ -52,3 +52,9 @@
     added on server new api to fetch each product
     add react-helmet-async to change title on each page
     competed the product page
+
+## 10. Creating Loader and Message components
+
+    added Loader Component to show loading spinner from bootstrap when you w8 for something to load
+    added a Message Component to show messages
+    added util fucntion to get the error and pass the error that the server sends
