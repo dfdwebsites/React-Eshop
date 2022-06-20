@@ -46,3 +46,9 @@
     using rating components to render rating in each product
     using bootstrap to still components
     importing FA to be able to use icons
+
+## 9. Creating Product Screen
+
+    added on server new api to fetch each product
+    add react-helmet-async to change title on each page
+    competed the product page

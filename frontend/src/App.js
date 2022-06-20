@@ -19,7 +19,7 @@ function App() {
           </Navbar>
           {/* <Link to="/"> Eat-Now </Link> */}
         </header>
-        <main>
+        <main className="mt-3">
           <Container>
             <Routes>
               <Route path="/product/:slug" element={<ProductScreen />} />

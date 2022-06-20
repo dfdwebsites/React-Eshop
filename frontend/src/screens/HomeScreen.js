@@ -4,6 +4,7 @@ import Product from '../components/Product';
 import logger from 'use-reducer-logger';
 import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
+import { Helmet } from 'react-helmet-async';
 
 const reducer = (state, action) => {
   switch (action.type) {
@@ -36,9 +37,11 @@ export default function HomeScreen() {
     };
     featchData();
   }, []);
-  console.log('num');
   return (
     <div>
+      <Helmet>
+        <title>Eat-Now</title>
+      </Helmet>
       <h1> Featured Salads</h1>
       <div className="products">
         {loading ? (

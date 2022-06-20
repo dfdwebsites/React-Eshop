@@ -32,15 +32,7 @@ header {
   background: linear-gradient(var(--linear-gradient));
   padding: 1rem;
 }
-header a {
-  color: var(--white-clr);
-  text-decoration: none;
-  font-size: var(--normal-fs);
-  font-weight: 600;
-}
-.nav-primary {
-  color: red;
-}
+
 main {
   flex: 1;
 }
@@ -72,4 +64,8 @@ main {
 }
 .product-info {
   padding: 1rem;
+}
+
+.img-large {
+  max-width: 100%;
 }
