@@ -13,3 +13,11 @@
     React-router-dom for changing pages inside the app
     using params to get the page we are on
     change anchor tags with Link (to) to stop refreshing when change pages
+
+### 4. setting the server with express
+
+    installing express to create the server
+    install nodemon for dev with  npm i nodemon --save-dev
+    change the start method in the package.json to start the server with nodemon
+    with adding "start": "nodemon server.js" in script
+    putting the data in the backend folder so we fetch the data from server instead of hardcodding it
