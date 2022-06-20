@@ -16,6 +16,7 @@
 
 ### 4. setting the server with express
 
+    https://expressjs.com/en/4x/api.html#app
     installing express to create the server
     install nodemon for dev with  npm i nodemon --save-dev
     change the start method in the package.json to start the server with nodemon
@@ -33,3 +34,8 @@
     https://reactjs.org/docs/hooks-reference.html#usereducer
     use try catch so we can catch errors in the fetch
     use ternaries in the homescree to return errors or loading depending the state we are on
+
+### 7. adding Bootstrap
+
+    https://react-bootstrap.github.io/getting-started/introduction
+    adding bootstrap and creating Bootstrap Components to style app

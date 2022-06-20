@@ -1,7 +1,6 @@
 import express from 'express';
 import data from './data.js';
 
-// https://expressjs.com/en/4x/api.html#app
 const app = express();
 
 app.get('/api/products', (req, res) => {
