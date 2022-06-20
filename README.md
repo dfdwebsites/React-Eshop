@@ -27,3 +27,9 @@
     add "proxy": "http://localhost:5000", in your package.json in frontend change the url to your url of your server
     instal axios
     use useState and useEffect hooks to fetch data from backend
+
+### 6. replace useState with useReduce
+
+    https://reactjs.org/docs/hooks-reference.html#usereducer
+    use try catch so we can catch errors in the fetch
+    use ternaries in the homescree to return errors or loading depending the state we are on
