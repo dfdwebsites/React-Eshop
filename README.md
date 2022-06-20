@@ -21,3 +21,9 @@
     change the start method in the package.json to start the server with nodemon
     with adding "start": "nodemon server.js" in script
     putting the data in the backend folder so we fetch the data from server instead of hardcodding it
+
+### 5. fetch the products from backend
+
+    add "proxy": "http://localhost:5000", in your package.json in frontend change the url to your url of your server
+    instal axios
+    use useState and useEffect hooks to fetch data from backend
