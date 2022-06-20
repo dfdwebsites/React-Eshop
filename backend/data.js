@@ -20,7 +20,7 @@ const data = {
       price: 5.6,
       countInStock: 80,
       brand: null,
-      rating: 4.5,
+      rating: 4.2,
       numReviews: 30,
       description: 'Mixed fresh salad'
     },
@@ -32,7 +32,7 @@ const data = {
       price: 3.2,
       countInStock: 80,
       brand: null,
-      rating: 4.5,
+      rating: 3,
       numReviews: 30,
       description: 'Classic Oriental salad'
     },
@@ -44,7 +44,7 @@ const data = {
       price: 3.2,
       countInStock: 80,
       brand: null,
-      rating: 4.5,
+      rating: 3.5,
       numReviews: 30,
       description: 'Fresh Green salad'
     },
@@ -56,7 +56,7 @@ const data = {
       price: 5.6,
       countInStock: 80,
       brand: null,
-      rating: 4.5,
+      rating: 4,
       numReviews: 30,
       description: 'Original Greek salad'
     }

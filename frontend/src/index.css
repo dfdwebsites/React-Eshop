@@ -38,15 +38,27 @@ header a {
   font-size: var(--normal-fs);
   font-weight: 600;
 }
-
+.nav-primary {
+  color: red;
+}
 main {
   flex: 1;
+}
+
+.btn-primary {
+  background-color: var(--accent-clr);
+  color: var(--dark-clr);
 }
 
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+.rating span {
+  color: var(--accent-clr);
+  /* color: #ffc000; */
 }
 
 .product {

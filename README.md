@@ -39,3 +39,10 @@
 
     https://react-bootstrap.github.io/getting-started/introduction
     adding bootstrap and creating Bootstrap Components to style app
+
+### 8. breaking homescreen to components
+
+    using seperate components to render each product
+    using rating components to render rating in each product
+    using bootstrap to still components
+    importing FA to be able to use icons
