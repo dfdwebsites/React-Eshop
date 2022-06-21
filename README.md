@@ -83,3 +83,9 @@
 
     Create Sign in Screen
     using useLocation() hook to get the url for the redirect for the signUp page
+
+## 15.MongoDB
+
+    https://mongoosejs.com/
+    install dotenv to read env to backend
+    create an atlas database or localhost one , env url file and instal mongoose to connect your backend server with the database
