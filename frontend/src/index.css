@@ -69,3 +69,10 @@ main {
 .img-large {
   max-width: 100%;
 }
+.cart-icon {
+  font-size: var(--big-fs);
+  color: var(--primary-clr);
+}
+.cart-icon:hover {
+  color: var(--dark-clr);
+}

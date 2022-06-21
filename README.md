@@ -58,3 +58,9 @@
     added Loader Component to show loading spinner from bootstrap when you w8 for something to load
     added a Message Component to show messages
     added util fucntion to get the error and pass the error that the server sends
+
+## 11. Cart context
+
+    https://reactjs.org/docs/context.html
+    Use useContext and create a Provider to pass the 'cart' to children on the app
+    Create a cart icon on Nav with Badge of items on the cart
