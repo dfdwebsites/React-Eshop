@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'Caesar"s Salad',
       slug: 'caesars-salad',
       category: 'Salads',
@@ -13,6 +14,7 @@ const data = {
       description: 'Classic Caesar"s salad'
     },
     {
+      _id: '2',
       name: 'Mixed Salad',
       slug: 'mixed-salad',
       category: 'Salads',
@@ -25,6 +27,7 @@ const data = {
       description: 'Mixed fresh salad'
     },
     {
+      _id: '3',
       name: 'Oriental',
       slug: 'oriental',
       category: 'Salads',
@@ -37,6 +40,7 @@ const data = {
       description: 'Classic Oriental salad'
     },
     {
+      _id: '4',
       name: 'Green salad',
       slug: 'green-salad',
       category: 'Salads',
@@ -49,6 +53,7 @@ const data = {
       description: 'Fresh Green salad'
     },
     {
+      _id: '5',
       name: 'Greek salad',
       slug: 'greek-salad',
       category: 'Salads',

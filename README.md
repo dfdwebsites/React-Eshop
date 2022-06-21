@@ -64,3 +64,10 @@
     https://reactjs.org/docs/context.html
     Use useContext and create a Provider to pass the 'cart' to children on the app
     Create a cart icon on Nav with Badge of items on the cart
+
+## 12. Complete add Cart
+
+    update addToCart to increase quantity in items instead of duplicating the item
+    update data with id so each item is unique
+    added server api for each product
+    Badge show items in total combined with quantity
