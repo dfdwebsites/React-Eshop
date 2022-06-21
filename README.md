@@ -78,3 +78,8 @@
     add the ability to add to cart from homescreen
     add increase quantity buttons and delete from cart
     make the cart to be saved in localhost for refresh
+
+## 14. Create Signin Page
+
+    Create Sign in Screen
+    using useLocation() hook to get the url for the redirect for the signUp page

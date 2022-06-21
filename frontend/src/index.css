@@ -88,3 +88,7 @@ main {
 .danger.btn-primary {
   background-color: #dc3545;
 }
+
+.small-container {
+  max-width: 600px;
+}
