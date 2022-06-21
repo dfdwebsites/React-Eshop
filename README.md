@@ -100,3 +100,10 @@
     create Model for user and add to seedRoutes the userModal
     create Admin and Customer user
     install bcryptjs to encrypt passwords of users
+
+## 18. SignIn API
+
+    create userRoutes to sign in users
+    install express-async-handler to handle with errors
+    install jsonwebtoken to generate tokens to AUTH users
+    create utils file with the function to generate token
