@@ -94,3 +94,9 @@
 
     create Routes and Models for server
     switch data.js to fetch data from mongoDB
+
+## 17. Create Sample Users
+
+    create Model for user and add to seedRoutes the userModal
+    create Admin and Customer user
+    install bcryptjs to encrypt passwords of users
