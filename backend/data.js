@@ -46,7 +46,7 @@ const data = {
       category: 'Salads',
       image: '/images/greenSalad.jpg',
       price: 3.2,
-      countInStock: 80,
+      countInStock: 0,
       brand: null,
       rating: 3.5,
       numReviews: 30,

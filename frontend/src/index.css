@@ -10,9 +10,9 @@
   --normal-fs: 1.2rem;
   --big-fs: 2rem;
   --small-fs: 0.9rem;
-
+  /* --bs-primary: to change bootstrap  color*/
   /* primary rgba(45,49,60,1), dark rgba(17,12,17,1) 50%, accent rgba(255,190,0,1)  */
-  --linear-gradient: 90deg, #2d313c 0%, #110c11 55%, #ffbe00 55%;
+  --linear-gradient: 90deg, #2d313c 0%, #110c11 50%, #ffbe00 50%;
 }
 
 body {
@@ -75,4 +75,16 @@ main {
 }
 .cart-icon:hover {
   color: var(--dark-clr);
+}
+.cart-icon span {
+  right: 10px;
+  top: -20px;
+  position: relative;
+}
+.img-thumbnail {
+  height: 80px;
+}
+
+.danger.btn-primary {
+  background-color: #dc3545;
 }

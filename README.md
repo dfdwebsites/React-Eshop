@@ -71,3 +71,10 @@
     update data with id so each item is unique
     added server api for each product
     Badge show items in total combined with quantity
+
+## 13. Create CartScreen
+
+    Create CartScreen with button actions and all UI with bootstrap
+    add the ability to add to cart from homescreen
+    add increase quantity buttons and delete from cart
+    make the cart to be saved in localhost for refresh
