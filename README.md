@@ -89,3 +89,8 @@
     https://mongoosejs.com/
     install dotenv to read env to backend
     create an atlas database or localhost one , env url file and instal mongoose to connect your backend server with the database
+
+## 16. Create Routes and Models for server
+
+    create Routes and Models for server
+    switch data.js to fetch data from mongoDB
