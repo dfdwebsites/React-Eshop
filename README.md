@@ -116,3 +116,11 @@
 
     https://fkhadra.github.io/react-toastify/introduction
     install react-toastify to show alert
+
+## 20. Shipping and SignUp pages
+
+    Create Shipping address page
+    save address info in localStorage
+    make CheckOut steps
+    Create SingUp page
+    Create a signUp router on the userRouter on backEnd

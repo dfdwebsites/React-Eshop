@@ -7,6 +7,7 @@
   --accent-clr: #ffbe00;
   --dark-clr: #110c11;
   --white-clr: #ffffff;
+  --grey-clr: #a0a0a0;
   --normal-fs: 1.2rem;
   --big-fs: 2rem;
   --small-fs: 0.9rem;
@@ -91,4 +92,12 @@ main {
 
 .small-container {
   max-width: 600px;
+}
+.checkout-steps > div {
+  border-bottom: 0.2rem solid var(--grey-clr);
+  color: var(--grey-clr);
+}
+.checkout-steps > div.active {
+  border-bottom: 0.2rem solid var(--accent-clr);
+  color: var(--accent-clr);
 }
