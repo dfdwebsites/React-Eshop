@@ -107,3 +107,12 @@
     install express-async-handler to handle with errors
     install jsonwebtoken to generate tokens to AUTH users
     create utils file with the function to generate token
+
+## 19. SignIn
+
+    create signIn page and finish the form to submit to server to sign in
+    use localstorage to keep users sign in
+    create a NavdropDown menu for the user to see profile, order history and sign out
+
+    https://fkhadra.github.io/react-toastify/introduction
+    install react-toastify to show alert
