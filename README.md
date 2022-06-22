@@ -131,3 +131,12 @@
     create OrderModel and OrderRoutes in backend
     orderRoutes for post an order and for getting an order
     create isAuth function to check if the user is authenticated
+
+## 22. PayPal payment
+
+    https://www.npmjs.com/package/@paypal/react-paypal-js
+    https://paypal.github.io/react-paypal-js/?path=/docs/example-paypalbuttons--default
+    install react-paypal-js
+    create a route to .put the order when is paid
+    follow the react-paypal and the paypal doc to use the APIS
+    make condintion rendering to show if the order is paid in the screen and if not to have the option of PayPal button
