@@ -124,3 +124,10 @@
     make CheckOut steps
     Create SingUp page
     Create a signUp router on the userRouter on backEnd
+
+## 21. OrderScreen & Payment
+
+    create OrderScreen , PaymentScreen and PlaceOrderScreen
+    create OrderModel and OrderRoutes in backend
+    orderRoutes for post an order and for getting an order
+    create isAuth function to check if the user is authenticated
