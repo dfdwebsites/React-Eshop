@@ -148,3 +148,10 @@
     createa backend route to change user info
     get orders>show them in screen
     sideBar getting categories from backend
+
+## 24. search screens
+
+    create searchScreen
+    create backend route for the query if search
+    create protected and admin components that render children if meet condition
+    create admin navbar
