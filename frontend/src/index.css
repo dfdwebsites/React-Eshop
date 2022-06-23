@@ -38,7 +38,8 @@ main {
   flex: 1;
 }
 
-.btn-primary {
+.btn-primary,
+.btn-outline-primary {
   background-color: var(--accent-clr);
   color: var(--dark-clr);
 }
@@ -100,4 +101,42 @@ main {
 .checkout-steps > div.active {
   border-bottom: 0.2rem solid var(--accent-clr);
   color: var(--accent-clr);
+}
+.table tr:nth-child(even) {
+  background-color: rgba(143, 133, 103, 0.116);
+}
+tbody tr {
+  vertical-align: middle;
+}
+thead tr {
+  vertical-align: bottom;
+}
+
+/* make media for table to be responsive */
+@media (max-width: 500px) {
+}
+
+/* sidebar */
+.navbar-brand {
+  font-weight: bold;
+}
+.side-navbar {
+  width: 240px;
+  height: 100%;
+  position: absolute;
+  left: -300px;
+  background-color: #2d313c;
+  transition: 0.5s;
+}
+.site-container {
+  transition: 0.4s;
+}
+.active-cont {
+  margin-left: 240px;
+}
+.active-nav {
+  left: 0;
+}
+#basic-nav-dropdown {
+  color: var(--primary-clr);
 }

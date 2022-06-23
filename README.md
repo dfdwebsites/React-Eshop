@@ -140,3 +140,11 @@
     create a route to .put the order when is paid
     follow the react-paypal and the paypal doc to use the APIS
     make condintion rendering to show if the order is paid in the screen and if not to have the option of PayPal button
+
+## 23. orderhistory-profile-sidebar-searchBox
+
+    create OrderHistoryScreen, profile, sidebar, searchBox
+    create backend route to get user orders
+    createa backend route to change user info
+    get orders>show them in screen
+    sideBar getting categories from backend
