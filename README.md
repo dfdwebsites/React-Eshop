@@ -155,3 +155,10 @@
     create backend route for the query if search
     create protected and admin components that render children if meet condition
     create admin navbar
+
+## 25. Admin Dashboard
+
+    create admin dashboard
+    create backend route and midleware to check if user is admin to get the data
+    install raect-google-charts to show graphs on dashboard of sales
+    create backend to get the data for the charts
