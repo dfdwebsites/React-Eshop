@@ -162,3 +162,13 @@
     create backend route and midleware to check if user is admin to get the data
     install raect-google-charts to show graphs on dashboard of sales
     create backend to get the data for the charts
+
+## 26. Update and Add product
+
+    https://cloudinary.com/
+    https://www.npmjs.com/package/multer
+    https://www.npmjs.com/package/streamifier
+    create the updateScreen
+    create the form and setup the backend for the admin user to be able to create products
+    create cloudinary acc so we can upload imgs there
+    install cludinary- multer -streamifier in backend so we can handle the uploads
