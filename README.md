@@ -172,3 +172,9 @@
     create the form and setup the backend for the admin user to be able to create products
     create cloudinary acc so we can upload imgs there
     install cludinary- multer -streamifier in backend so we can handle the uploads
+
+## 27. Order List
+
+    admin can delete products
+    create orderList for admin and is able to set status to delivered if order is paid
+    add button to delete order for admins
