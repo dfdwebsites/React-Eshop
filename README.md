@@ -178,3 +178,9 @@
     admin can delete products
     create orderList for admin and is able to set status to delivered if order is paid
     add button to delete order for admins
+
+## 28. User List
+
+    admin can update and delete users
+    create userList for admin and is able to change name/email and make admin
+    Admins can delete users
