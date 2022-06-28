@@ -184,3 +184,9 @@
     admin can update and delete users
     create userList for admin and is able to change name/email and make admin
     Admins can delete users
+
+## 29. Map and Review
+
+    install @react-google-maps/api
+    we use Google maps API for the user to be able to choose his location with google maps
+    we created backend api for users to be able to post a review on product

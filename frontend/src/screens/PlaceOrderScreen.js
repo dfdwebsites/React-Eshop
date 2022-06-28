@@ -47,9 +47,9 @@ export default function PlaceOrderScreen() {
     cart.itemsPrice + cart.shippingPrice + cart.taxPrice
   );
 
-  console.log(
-    `itemsPrice: ${cart.itemsPrice}, shippingPrice: ${cart.shippingPrice}, taxPrice: ${cart.taxPrice}, totalPrice: ${cart.totalPrice}`
-  );
+  // console.log(
+  //   `itemsPrice: ${cart.itemsPrice}, shippingPrice: ${cart.shippingPrice}, taxPrice: ${cart.taxPrice}, totalPrice: ${cart.totalPrice}`
+  // );
 
   const placeOrderHandler = async () => {
     try {
